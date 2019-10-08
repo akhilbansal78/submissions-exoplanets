@@ -15,7 +15,7 @@ Running Executors jar -
 2. Both arguments are optional. (Arg 2 can be specified only if arg 1 is specified).
 3. Data source can be either an http URL, or a full path to local file.
     
-Runnig Flink jar -
+Running Flink jar -
 1. This jar can be submitted as a flink job to the flink cluster.
 2. flink run <<jar file name>> --input=<<data source>> --output=<<data sink>>
 3. input and output are optional

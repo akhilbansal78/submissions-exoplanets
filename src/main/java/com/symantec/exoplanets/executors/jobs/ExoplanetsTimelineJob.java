@@ -37,6 +37,11 @@ public class ExoplanetsTimelineJob implements Runnable {
      * <p>
      * This method updates the current exoplanets timeline state for this exoplanet.
      * </p>
+     * 
+     * <p>
+     * This method use the size buckets values as "1", "2", "3" so as to keep them
+     * sorted.
+     * </p>
      */
     @Override
     public void run() {

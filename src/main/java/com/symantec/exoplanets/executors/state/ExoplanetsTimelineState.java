@@ -13,6 +13,11 @@ import java.util.TreeMap;
  * for the exoplanets being processed.
  * </p>
  * 
+ * <p>
+ * This class use the values of "1", "2", "3", "U" for sizes so as to sort the
+ * data set. While displaying appropriate conversions are made.
+ * </p>
+ * 
  * @author Akhil_Bansal
  */
 public class ExoplanetsTimelineState {

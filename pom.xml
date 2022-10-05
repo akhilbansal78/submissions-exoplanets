@@ -15,7 +15,7 @@
         <maven.surefire.plugin>3.0.0-M3</maven.surefire.plugin>
 
         <!-- JSON dependencies -->
-        <com.fasterxml.jackson.core.version>2.10.0</com.fasterxml.jackson.core.version>
+        <com.fasterxml.jackson.core.version>2.12.6.1</com.fasterxml.jackson.core.version>
         <org.json.version>20190722</org.json.version>
 
         <!-- Apache Flink -->
